@@ -7,7 +7,7 @@ Open-source Alternative to Interview Coder
 ## Demo
 https://github.com/user-attachments/assets/179701eb-0fcf-4e33-86f3-c92688f508a5
 
-## 🎯 Screen Sharing Invisibility Options
+## 🎯 Screen Sharing Invisibility Options.
 
 When sharing your screen during interviews, you need to keep CrackCoder invisible to others. We provide **4 different implementation options**:
 
